@@ -18,7 +18,7 @@ When creating a new MieTech, LLC project, the `new_project.command` script shoul
 <!-- What versions of OS will MieTech, LLC support by default? -->
 Regardless of the technologies used, MieTech, LLC trys to always support the latest versions and, dependent on project needs, one version prior. 
 
-*For example, at the time of writing (7/9/2021), a new iOS project would support iOS 14 and 13.*
+*For example, at the time of writing (7/9/2021), a new iOS project would support iOS 13 and 14.*
 
 <!--
 **mietechnologies/mietechnologies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
