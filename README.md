@@ -8,7 +8,7 @@ MieTech, LLC was created in 2019 by [Brett Chapin](https://github.com/BAChapin) 
 ## Contact Us
 <!-- The various ways to contact MieTech, LLC -->
 <!-- ![MieTech, LLC on Twitter!](/image/twitter.png "MieTech, LLC on Twitter") --> 
-<img src="image/twitter.png" alt="MieTech, LLC on Twitter" width=40 height=40 href="https://twitter.com/mietech-llc"> [MieTech, LLC on Twitter](https://twitter.com/mietech-llc)
+<img src="image/twitter.png" alt="MieTech, LLC on Twitter" width=20 height=20 href="https://twitter.com/mietech-llc"> [MieTech, LLC on Twitter](https://twitter.com/mietech-llc)
 
 ## Git Process
 <!-- info about MieTech, LLC's git process --> 
