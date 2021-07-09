@@ -8,7 +8,7 @@ MieTech, LLC was created in 2019 by [Brett Chapin](https://github.com/BAChapin) 
 ## Contact Us
 <!-- The various ways to contact MieTech, LLC -->
 You can use any of the links below to contact MieTech, LLC and we will get back to you as soon as possible! :)
-<!-- Website --> <a href="https://twitter.com/mietechllc"> <img src="image/twitter.png" alt="MieTech, LLC on Twitter" width=50 height=50> </a>
+<!-- Website <a href="https://twitter.com/mietechllc"> <img src="image/twitter.png" alt="MieTech, LLC on Twitter" width=50 height=50> </a>
 <!-- Email <a href="https://twitter.com/mietechllc"> <img src="image/twitter.png" alt="MieTech, LLC on Twitter" width=50 height=50> </a>
 <!-- Twitter --> <a href="https://twitter.com/mietechllc"> <img src="image/twitter.png" alt="MieTech, LLC on Twitter" width=50 height=50> </a>
 <!-- LinkedIn <a href="https://twitter.com/mietechllc"> <img src="image/twitter.png" alt="MieTech, LLC on Twitter" width=50 height=50> </a>
