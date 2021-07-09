@@ -10,7 +10,8 @@ MieTech, LLC was created in 2019 with the intention of making technology easier 
 
 ## New Projects
 <!-- information about setting up a new MieTech, LLC project -->
-If you're a new admin with MieTech, LLC and you're about to start up a new project, please take a moment to read through this section in detail.
+**If you're a new admin with MieTech, LLC and you're about to start up a new project**, please take a moment to read through this section in detail.
+
 When creating a new MieTech, LLC project, the `new_project.command` script should be copied from the MieTech shared folder into the root of the project directory and then ran. This script will copy over all MieTech, LLC git process files to get the project started off on the right foot.
 
 ## Version Support
