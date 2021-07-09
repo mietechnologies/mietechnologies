@@ -8,6 +8,11 @@ MieTech, LLC was created in 2019 with the intention of making technology easier 
 ## Git Process
 <!-- info about MieTech, LLC's git process --> 
 
+## New Projects
+<!-- information about setting up a new MieTech, LLC project -->
+If you're a new admin with MieTech, LLC and you're about to start up a new project, please take a moment to read through this section in detail.
+When creating a new MieTech, LLC project, the `new_project.command` script should be copied from the MieTech shared folder into the root of the project directory and then ran. This script will copy over all MieTech, LLC git process files to get the project started off on the right foot.
+
 ## Version Support
 <!-- What versions of OS will MieTech, LLC support by default? -->
 Regardless of the technologies used, MieTech, LLC trys to always support the latest versions and, dependent on project needs, one version prior. For example, at the time of writing (7/9/2021), a new iOS project would support iOS 14 and 13. 
