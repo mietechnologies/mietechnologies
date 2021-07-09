@@ -3,7 +3,10 @@
 
 ## About MieTech, LLC
 <!-- information about MieTech, LLC -->
-MieTech, LLC was created in 2019 with the intention of making technology easier for everyone. We accomplish this by following one simple rule: any technological solution should be better than any process currently used. 
+MieTech, LLC was created in 2019 by [Brett Chapin](https://github.com/BAChapin) and [MichaelCraun](https://github.com/Michaelcraun) with the intention of making technology easier for everyone. We accomplish this by following one simple rule: any technological solution should be better than any process currently used. 
+
+## Contact Us
+<!--  -->
 
 ## Git Process
 <!-- info about MieTech, LLC's git process --> 
