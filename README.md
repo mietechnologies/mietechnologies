@@ -11,7 +11,7 @@ You can use any of the links below to contact MieTech, LLC and we will get back 
 <!-- Website --> <a href="https://mietechnologies.com"> <img src="image/website.png" alt="MieTech, LLC's Website" width=50 height=50> </a>
 <!-- Email --> <a href="mailto:contact@mietechnologies.com"> <img src="image/email.png" alt="Email MieTech, LLC" width=50 height=50> </a>
 <!-- Twitter --> <a href="https://twitter.com/mietechllc"> <img src="image/twitter.png" alt="MieTech, LLC on Twitter" width=50 height=50> </a>
-<!-- LinkedIn --> <a href="https://linkedin.com/mietechllc"> <img src="image/linkedin.png" alt="MieTech, LLC on LinkedIn" width=50 height=50> </a>
+<!-- LinkedIn --> <a href="https://linkedin.com/mietech-llc"> <img src="image/linkedin.png" alt="MieTech, LLC on LinkedIn" width=50 height=50> </a>
 <!-- Facebook --> <a href="https://facebook.com/mietechllc"> <img src="image/facebook.png" alt="MieTech, LLC on Facebook" width=50 height=50> </a>
 
 ## Git Process
